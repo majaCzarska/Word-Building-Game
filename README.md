@@ -1,1 +1,1 @@
-# Word-Building-Game
+**Word-Building Game in Python** – A turn-based game where the player competes against the computer to construct a word by adding letters at the beginning or end. The game ends when a player can no longer make a valid move. The word list is customizable, allowing manual modifications or dictionary imports from the internet. 
